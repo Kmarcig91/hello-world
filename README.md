@@ -1,2 +1,4 @@
 # hello-world
-First repository ever
+------------
+
+Hi people, I'm trying this thing!
